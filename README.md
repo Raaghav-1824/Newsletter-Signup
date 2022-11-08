@@ -33,7 +33,7 @@ This project has no usage other than to present future employers of my progresss
 - Udemy
 
  ## Demo
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Raaghav-1824/Raaghav-1824-Newsletter-Signup/blob/f15c938c5d594875e6031769188288d70cfd3a69/Images/Newsletter%20Signup.gif))
 
 
 
