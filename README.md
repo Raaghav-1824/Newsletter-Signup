@@ -33,6 +33,9 @@ This project has no usage other than to present future employers of my progresss
 - Udemy
 
 
+![App Screenshot](Images/Newsletter Signup.gif)
+
+
 
 
 
