@@ -32,8 +32,8 @@ This project has no usage other than to present future employers of my progresss
 - Dr. Angela Yu
 - Udemy
 
-
-![App Screenshot](Images/Newsletter Signup.gif)
+ ## Demo
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
